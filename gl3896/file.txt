@@ -1,7 +1,7 @@
 line 1 original
 line 2 original
 line 3 B three
-line 4 original
+line 4 B four
 line 5 original
 line 6 original
 line 7 original
