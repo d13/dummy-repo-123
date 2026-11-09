@@ -1,11 +1,11 @@
 b line 1 original
-b line 2 original
+b line 2 B two
 b line 3 original
 b line 4 original
 b line 5 original
 b line 6 original
 b line 7 original
-b line 8 original
+b line 8 B eight
 b line 9 original
 b line 10 original
 b line 11 original
