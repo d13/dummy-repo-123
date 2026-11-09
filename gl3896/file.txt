@@ -1,6 +1,6 @@
-line 1 A one
+line 1 master later
 line 2 A two
-line 3 original
+line 3 master later
 line 4 original
 line 5 C five
 line 6 C six
