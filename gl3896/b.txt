@@ -1,5 +1,5 @@
 b line 1 original
-b line 2 B two
+b line 2 master later
 b line 3 original
 b line 4 original
 b line 5 original
