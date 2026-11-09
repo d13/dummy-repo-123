@@ -7,6 +7,6 @@ line 6 C six
 line 7 original
 line 8 original
 line 9 original
-line 10 original
+line 10 C follow-up
 line 11 original
 line 12 original
