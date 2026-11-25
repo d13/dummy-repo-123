@@ -1,0 +1,9 @@
+name: event-streams-probe
+on:
+  pull_request:
+    branches: ['gl-event-streams/**']
+jobs:
+  quick:
+    runs-on: ubuntu-latest
+    steps:
+      - run: sleep 5 && echo ok
