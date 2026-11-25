@@ -1,3 +1,4 @@
 line one
-line two (base changed)
+line two (probe)
 line three
+line four
